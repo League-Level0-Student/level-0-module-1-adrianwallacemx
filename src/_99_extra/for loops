@@ -1,0 +1,14 @@
+1. Complete the for loop below so that it prints out the numbers 1-­10.
+for( int i =1;            ; i    <   10     ;    i++         )
+{ 
+}
+2. Complete the for loop below so that it counts down and prints out 75 to 50.
+for(   int i=75;           ;  i    >   50    ;    i--         )
+{ 
+}
+3. Describe briefly what each part of the for loop does: 
+for( a ; b ; c )
+{               } 
+a) the starting variable
+b) showing how much time its going to loop
+c) showing if the variable is less than or grader than the number
